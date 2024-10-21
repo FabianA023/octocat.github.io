@@ -1,14 +1,15 @@
 /*  This is a comment in CSS  */
 			
-			h1 {
-				font-size: 48px;
-				text-decoration: underline;
-				font-family: papyrus;
-				font-weight: bold;
-				margin-left: 10px;
-			}
+			h1 {color: orange;
+		font-size: 48px;
+		width: 750%;
+		text-decoration: underline;
+		font-family: papyrus;
+		border: 5px solid black;
+		margin-left: 10px;
+		}
 
-			h2 {
+		h2 {
 			font-size: 36px;
 			text-decoration: underline;
 			font-family: garamond;
