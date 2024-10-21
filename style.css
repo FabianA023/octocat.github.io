@@ -7,3 +7,22 @@
 				font-weight: bold;
 				margin-left: 10px;
 			}
+
+			h2 {
+			font-size: 36px;
+			text-decoration: underline;
+			font-family: garamond;
+			text-shadow: 5px 5px 5px; black;
+			
+			.doc_header {
+				width: 100%;
+				/* line width, line type, color */
+				border: 5px solid black;
+				margin-bottom: 30px;
+			}
+
+			.doc_body {
+				width: 100%
+				color: crimson;
+				border: 5px solid crimson;
+			}
