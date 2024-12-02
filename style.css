@@ -109,3 +109,9 @@
 				a:visited {
 				color: purple;}
 
+			a {
+ 		 	color: blue;
+    			transition: color 2s ease-out;}
+
+			a:hover {
+    			color: crimson;}
