@@ -59,6 +59,12 @@
 				border: 5px solid crimson;
 				border-radius: 15px;
 				background-color: #FFFFFFCC;
+				button:focus {
+   				border: 3px solid blue;
+				}
+				input:focus {
+    				border: 3px solid blue;
+				}
 				/*background-color: crimson;*/
 			}
 			
